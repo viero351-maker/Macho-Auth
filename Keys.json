@@ -16,5 +16,11 @@
     "expires": "2025-11-15T18:30:00Z",
     "user": "Ryu",
     "admin": false
+  },
+  {
+    "key": "4916244542231064180",
+    "expires": "2026-09-15T18:30:00Z",
+    "user": "Bogsa",
+    "admin": false
   }
 ]
