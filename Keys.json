@@ -29,10 +29,16 @@
     "user": "Gavin",
     "admin": true
   },
-   {
+  {
     "key": "4906919092856110355",
     "expires": "2025-11-15T18:30:00Z",
     "user": "Manto",
+    "admin": false
+ },
+  {
+    "key": "4908232051613805213",
+    "expires": "2025-11-15T18:30:00Z",
+    "user": "Jakerk",
     "admin": false
   }
 ]
