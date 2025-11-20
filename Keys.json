@@ -4,4 +4,59 @@
     "expires": "2030-10-01T12:00:00Z",
     "user": "Viero",
     "admin": true
-  }
+  },
+  {
+    "key": "12609010893482455871",
+    "expires": "2025-11-15T18:30:00Z",
+    "user": "Ryu",
+    "admin": false
+  },
+  {
+    "key": "4916244542231064180",
+    "expires": "2026-09-15T18:30:00Z",
+    "user": "Bogsa",
+    "admin": false
+  },
+  {
+    "key": "4913569454369037932",
+    "expires": "2025-11-15T18:30:00Z",
+    "user": "Gavin",
+    "admin": true
+  },
+  {
+    "key": "4906919092856110355",
+    "expires": "2025-11-15T18:30:00Z",
+    "user": "Manto",
+    "admin": false
+ },
+  {
+    "key": "4908232051613805213",
+    "expires": "2025-11-15T18:30:00Z",
+    "user": "Jakerk",
+    "admin": false
+  },
+   {
+    "key": "4904834060933478756",
+    "expires": "2025-11-15T18:30:00Z",
+    "user": "Apoc",
+    "admin": false
+   },
+   {
+    "key": "4906644927889758202",
+    "expires": "2025-11-15T18:30:00Z",
+    "user": "Bugito",
+    "admin": false
+   },
+   {
+    "key": "4923890250642371233",
+    "expires": "2025-11-15T18:30:00Z",
+    "user": "Kyle",
+    "admin": false
+   },
+   {
+    "key": "4904383127413000512",
+    "expires": "2025-11-15T18:30:00Z",
+    "user": "Yuta",
+    "admin": false
+   }
+]
